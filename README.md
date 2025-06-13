@@ -88,7 +88,7 @@ Make sure you’ve named your image exactly `image.bmp`.
 
 - OLED won’t work unless wiring is correct (SDA, SCL, and VCC *securely* connected)
 - If you forget to switch from your PC's Python to CircuitPython in Thonny, you'll see `no module named board` (LOL)
-- CircuitPython storage is tiny. Think Apollo-era tiny. Remove unused libraries when done.
+- CircuitPython storage is tiny. Think Apollo 11-era tiny. Remove unused libraries when done.
 
 ---
 
